@@ -1,0 +1,45 @@
+body {
+  background: #121312;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: whitesmoke;
+}
+.image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 10px;
+}
+.slider {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.arrow-left {
+  position: absolute;
+  top: 50%;
+  left: 150px;
+  font-size: 5rem;
+  z-index: 10;
+  cursor: pointer;
+}
+.arrow-right {
+  position: absolute;
+  top: 50%;
+  right: 150px;
+  font-size: 5rem;
+  z-index: 10;
+  cursor: pointer;
+}
+.single {
+  opacity: 0;
+  transition: 1s ease;
+}
+.single.active {
+  opacity: 1;
+  transform: scale(1.08);
+  transition-duration: 1s;
+}
