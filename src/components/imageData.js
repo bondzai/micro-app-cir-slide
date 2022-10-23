@@ -18,25 +18,25 @@ export const ImageData = [
     new cirtification(
         "Course: Pro JavaScript Backend Developer", 
         ImageCirBackend, 
-        "Learn about many backend tricks & create the eCommerse API project.", 
+        "Learn about many backend tricks & bulit the eCommerse project.", 
         "2022-10-18"
         ),
     new cirtification(
         "Course: React Workshop", 
         ImageCirReact, 
-        "Learn about many frony tricks with many projects.", 
+        "Learn about many frontend tricks & built many projects.", 
         "2022-10-12"
         ),
     new cirtification(
         "Slove: DevLab3", 
         ImageCirDevLab, 
-        "Online data structure and algorithms problem solving.", 
+        "Online algorithms problem solving.", 
         "2022-07-31"
         ),
     new cirtification(
         "Course: Pre-CCNA", 
         ImageCirNetwork, 
-        "Networking Pre-CCNA course.", 
+        "Pre-CCNA networking course.", 
         "2020-01-16"
         ),
     new cirtification(

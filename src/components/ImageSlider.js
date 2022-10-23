@@ -21,7 +21,6 @@ const ImageSlider = () => {
 
     return (
         <section className = "slider">
-            <AiOutlineArrowLeft className = "arrow-left" onClick={slideBack}/>
             {ImageData.map((data, index) => {
                 return (
                     <div className = {index === current ? "single active" : "single"} key = {index}>
@@ -34,7 +33,10 @@ const ImageSlider = () => {
                     </div>
                 )
             })}
-            <AiOutlineArrowRight className = "arrow-right" onClick={slideForward}/>
+            <div className="arrow">
+                <AiOutlineArrowLeft className = "arrow-left" onClick={slideBack}/>
+                <AiOutlineArrowRight className = "arrow-right" onClick={slideForward}/>                
+            </div>
         </section>
     )
 }
