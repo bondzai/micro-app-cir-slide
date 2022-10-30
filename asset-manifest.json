@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/micro-app-cir-slide/static/css/main.44f01d31.css",
-    "main.js": "/micro-app-cir-slide/static/js/main.ff79e88c.js",
+    "main.js": "/micro-app-cir-slide/static/js/main.0620d98c.js",
     "static/media/cir-thin.PNG": "/micro-app-cir-slide/static/media/cir-thin.c05709888f35ec5a60f4.PNG",
     "static/media/cir-dev-lab.PNG": "/micro-app-cir-slide/static/media/cir-dev-lab.42fbe0b0ef95d14cf084.PNG",
     "static/media/cir-react.jpg": "/micro-app-cir-slide/static/media/cir-react.58de3fcc7f1b57096551.jpg",
@@ -10,10 +10,10 @@
     "static/media/cir-wonderware.PNG": "/micro-app-cir-slide/static/media/cir-wonderware.afd068aa9724f91fee3a.PNG",
     "index.html": "/micro-app-cir-slide/index.html",
     "main.44f01d31.css.map": "/micro-app-cir-slide/static/css/main.44f01d31.css.map",
-    "main.ff79e88c.js.map": "/micro-app-cir-slide/static/js/main.ff79e88c.js.map"
+    "main.0620d98c.js.map": "/micro-app-cir-slide/static/js/main.0620d98c.js.map"
   },
   "entrypoints": [
     "static/css/main.44f01d31.css",
-    "static/js/main.ff79e88c.js"
+    "static/js/main.0620d98c.js"
   ]
 }
