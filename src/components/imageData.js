@@ -1,9 +1,8 @@
-import ImageCirBackend from "../assets/cir-backend.jpg"
-import ImageCirReact from "../assets/cir-react.jpg"
-import ImageCirDevLab from "../assets/cir-dev-lab.PNG"
-import ImageCirNetwork from "../assets/cir-network.jpg"
-import ImageCirSCADA from "../assets/cir-wonderware.PNG"
-import ImageCirThin from "../assets/cir-thin.PNG"
+import CodeCalPIR from "../assets/code-cal-pir.png"
+import CodeCalMagnetic from "../assets/code-cal-magnetic.png"
+import CodeReport from "../assets/code-report.png"
+import Influx from "../assets/influx.png"
+import InfluxTask from "../assets/influx-task.png"
 
 class cirtification {
     constructor(name, image, description, date) {
@@ -16,39 +15,33 @@ class cirtification {
 
 export const ImageData = [
     new cirtification(
-        "Course: Pro JavaScript Backend Developer", 
-        ImageCirBackend, 
-        "Learn about many backend tricks & bulit the eCommerse project.", 
+        "Code: PIR sensor calculation logic", 
+        CodeCalPIR, 
+        "Code: PIR sensor calculation logic.", 
         "2022-10-18"
         ),
     new cirtification(
-        "Course: React Workshop", 
-        ImageCirReact, 
-        "Learn about many frontend tricks & built many projects.", 
+        "Code: Magnetic sensor calculation logic", 
+        CodeCalMagnetic, 
+        "Code: Magnetic sensor calculation logic.", 
+        "2022-10-19"
+        ),
+    new cirtification(
+        "Code: Report logic for Celery worker", 
+        CodeReport, 
+        "Code: Report logic for Celery worker.", 
         "2022-10-12"
         ),
     new cirtification(
-        "Slove: DevLab3", 
-        ImageCirDevLab, 
-        "Online algorithms problem solving.", 
+        "Flux task", 
+        InfluxTask, 
+        "Flux task woker", 
         "2022-07-31"
         ),
     new cirtification(
-        "Course: Pre-CCNA", 
-        ImageCirNetwork, 
-        "Pre-CCNA networking course.", 
+        "Influx data", 
+        Influx, 
+        "Influx data", 
         "2020-01-16"
-        ),
-    new cirtification(
-        "Slove: Wonderware Exam", 
-        ImageCirSCADA, 
-        "Wonderware Intouch CSI exam.", 
-        "2019-04-01"
-        ),
-    new cirtification(
-        "Slove: Thin Lab", 
-        ImageCirThin, 
-        "Microsoft ThinManager for automation system integration.", 
-        "2019-03-22"
         ),
 ]
