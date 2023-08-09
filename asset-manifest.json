@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/micro-app-cir-slide/static/css/main.44f01d31.css",
-    "main.js": "/micro-app-cir-slide/static/js/main.0620d98c.js",
-    "static/media/cir-thin.PNG": "/micro-app-cir-slide/static/media/cir-thin.c05709888f35ec5a60f4.PNG",
-    "static/media/cir-dev-lab.PNG": "/micro-app-cir-slide/static/media/cir-dev-lab.42fbe0b0ef95d14cf084.PNG",
-    "static/media/cir-react.jpg": "/micro-app-cir-slide/static/media/cir-react.58de3fcc7f1b57096551.jpg",
-    "static/media/cir-backend.jpg": "/micro-app-cir-slide/static/media/cir-backend.1ddb5947764a53bd77d3.jpg",
-    "static/media/cir-network.jpg": "/micro-app-cir-slide/static/media/cir-network.70b0703d86dda9b85c90.jpg",
-    "static/media/cir-wonderware.PNG": "/micro-app-cir-slide/static/media/cir-wonderware.afd068aa9724f91fee3a.PNG",
+    "main.css": "/micro-app-cir-slide/static/css/main.2546935b.css",
+    "main.js": "/micro-app-cir-slide/static/js/main.adf110a4.js",
+    "static/media/influx.png": "/micro-app-cir-slide/static/media/influx.8aa9b1ac9eca683c14bf.png",
+    "static/media/code-report.png": "/micro-app-cir-slide/static/media/code-report.ba4cee81c80b39a5b4a4.png",
+    "static/media/code-cal-pir.png": "/micro-app-cir-slide/static/media/code-cal-pir.4f3a3c204277097f238f.png",
+    "static/media/code-cal-magnetic.png": "/micro-app-cir-slide/static/media/code-cal-magnetic.8b7c6de8f352e908c983.png",
+    "static/media/influx-task.png": "/micro-app-cir-slide/static/media/influx-task.7e792417b1fadc7b205f.png",
     "index.html": "/micro-app-cir-slide/index.html",
-    "main.44f01d31.css.map": "/micro-app-cir-slide/static/css/main.44f01d31.css.map",
-    "main.0620d98c.js.map": "/micro-app-cir-slide/static/js/main.0620d98c.js.map"
+    "main.2546935b.css.map": "/micro-app-cir-slide/static/css/main.2546935b.css.map",
+    "main.adf110a4.js.map": "/micro-app-cir-slide/static/js/main.adf110a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.44f01d31.css",
-    "static/js/main.0620d98c.js"
+    "static/css/main.2546935b.css",
+    "static/js/main.adf110a4.js"
   ]
 }
