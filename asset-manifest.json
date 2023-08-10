@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/micro-app-cir-slide/static/css/main.2546935b.css",
-    "main.js": "/micro-app-cir-slide/static/js/main.adf110a4.js",
-    "static/media/influx.png": "/micro-app-cir-slide/static/media/influx.8aa9b1ac9eca683c14bf.png",
-    "static/media/code-report.png": "/micro-app-cir-slide/static/media/code-report.ba4cee81c80b39a5b4a4.png",
-    "static/media/code-cal-pir.png": "/micro-app-cir-slide/static/media/code-cal-pir.4f3a3c204277097f238f.png",
-    "static/media/code-cal-magnetic.png": "/micro-app-cir-slide/static/media/code-cal-magnetic.8b7c6de8f352e908c983.png",
-    "static/media/influx-task.png": "/micro-app-cir-slide/static/media/influx-task.7e792417b1fadc7b205f.png",
+    "main.js": "/micro-app-cir-slide/static/js/main.fc352849.js",
+    "static/media/report-result.png": "/micro-app-cir-slide/static/media/report-result.63b5a7b2a31a26684759.png",
+    "static/media/api-result.png": "/micro-app-cir-slide/static/media/api-result.d7b006ea989d5d25c83b.png",
+    "static/media/report-before.png": "/micro-app-cir-slide/static/media/report-before.11ce8809342f9869e8d8.png",
+    "static/media/report-after.png": "/micro-app-cir-slide/static/media/report-after.f51efc4650f87c82ffb5.png",
     "index.html": "/micro-app-cir-slide/index.html",
     "main.2546935b.css.map": "/micro-app-cir-slide/static/css/main.2546935b.css.map",
-    "main.adf110a4.js.map": "/micro-app-cir-slide/static/js/main.adf110a4.js.map"
+    "main.fc352849.js.map": "/micro-app-cir-slide/static/js/main.fc352849.js.map"
   },
   "entrypoints": [
     "static/css/main.2546935b.css",
-    "static/js/main.adf110a4.js"
+    "static/js/main.fc352849.js"
   ]
 }
