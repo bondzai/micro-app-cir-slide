@@ -1,8 +1,7 @@
-import CodeCalPIR from "../assets/code-cal-pir.png"
-import CodeCalMagnetic from "../assets/code-cal-magnetic.png"
-import CodeReport from "../assets/code-report.png"
-import Influx from "../assets/influx.png"
-import InfluxTask from "../assets/influx-task.png"
+import p1 from "../assets/api-result.png"
+import p2 from "../assets/report-after.png"
+import p3 from "../assets/report-before.png"
+import p4 from "../assets/report-result.png"
 
 class cirtification {
     constructor(name, image, description, date) {
@@ -15,33 +14,27 @@ class cirtification {
 
 export const ImageData = [
     new cirtification(
-        "Code: PIR sensor calculation logic", 
-        CodeCalPIR, 
-        "Code: PIR sensor calculation logic.", 
+        "Alerted devices API result.", 
+        p1, 
+        "Alerted devices API result.", 
         "2022-10-18"
         ),
     new cirtification(
-        "Code: Magnetic sensor calculation logic", 
-        CodeCalMagnetic, 
-        "Code: Magnetic sensor calculation logic.", 
+        "Report downloading before optimize runtime (45 days data size projection on InfluxDB).", 
+        p3, 
+        "Report downloading before optimize runtime (45 days data size projection on InfluxDB).", 
         "2022-10-19"
         ),
     new cirtification(
-        "Code: Report logic for Celery worker", 
-        CodeReport, 
-        "Code: Report logic for Celery worker.", 
-        "2022-10-12"
+        "Report downloading after optimize runtime (45 days data size projection on InfluxDB).", 
+        p2, 
+        "Report downloading after optimize runtime (45 days data size projection on InfluxDB).", 
+        "2022-10-20"
         ),
     new cirtification(
-        "Flux task", 
-        InfluxTask, 
-        "Flux task woker", 
-        "2022-07-31"
-        ),
-    new cirtification(
-        "Influx data", 
-        Influx, 
-        "Influx data", 
-        "2020-01-16"
+        "Report result", 
+        p4, 
+        "Report result", 
+        "2022-10-21"
         ),
 ]
