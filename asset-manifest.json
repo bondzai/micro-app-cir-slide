@@ -1,17 +1,14 @@
 {
   "files": {
     "main.css": "/micro-app-cir-slide/static/css/main.2546935b.css",
-    "main.js": "/micro-app-cir-slide/static/js/main.1afa2430.js",
-    "static/media/report-result.png": "/micro-app-cir-slide/static/media/report-result.63b5a7b2a31a26684759.png",
-    "static/media/api-result.png": "/micro-app-cir-slide/static/media/api-result.d7b006ea989d5d25c83b.png",
-    "static/media/report-before.png": "/micro-app-cir-slide/static/media/report-before.11ce8809342f9869e8d8.png",
-    "static/media/report-after.png": "/micro-app-cir-slide/static/media/report-after.f51efc4650f87c82ffb5.png",
+    "main.js": "/micro-app-cir-slide/static/js/main.2635b8e3.js",
+    "static/media/report.png": "/micro-app-cir-slide/static/media/report.5a37498be8a8e3972beb.png",
     "index.html": "/micro-app-cir-slide/index.html",
     "main.2546935b.css.map": "/micro-app-cir-slide/static/css/main.2546935b.css.map",
-    "main.1afa2430.js.map": "/micro-app-cir-slide/static/js/main.1afa2430.js.map"
+    "main.2635b8e3.js.map": "/micro-app-cir-slide/static/js/main.2635b8e3.js.map"
   },
   "entrypoints": [
     "static/css/main.2546935b.css",
-    "static/js/main.1afa2430.js"
+    "static/js/main.2635b8e3.js"
   ]
 }
