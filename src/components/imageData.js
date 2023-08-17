@@ -1,4 +1,5 @@
 import f1 from "../assets/f1.png"
+import f2 from "../assets/count-his.png"
 import n1 from "../assets/n1.png"
 import n2 from "../assets/n2.png"
 import n3 from "../assets/n3.png"
@@ -21,14 +22,20 @@ export const ImageData = [
         ),
     new cirtification(
         "", 
-        n1, 
-        "New issue 1 (Frontend done, Backend inprogress)", 
+        f2, 
+        "Fixed: Count history. (Frontend done, Backend done)", 
         "2022-10-18"
         ),
     new cirtification(
         "", 
         n2, 
-        "New issue 2", 
+        "New issue 1 (done)", 
+        "2022-10-18"
+        ),
+    new cirtification(
+        "", 
+        n1, 
+        "New issue 2 (Frontend done, Backend inprogress)", 
         "2022-10-18"
         ),
     new cirtification(
