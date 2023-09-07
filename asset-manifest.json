@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/micro-app-cir-slide/static/css/main.2546935b.css",
-    "main.js": "/micro-app-cir-slide/static/js/main.cbaeeddb.js",
+    "main.js": "/micro-app-cir-slide/static/js/main.29e747b0.js",
+    "static/media/flux.png": "/micro-app-cir-slide/static/media/flux.6aa442a723fb69d9984d.png",
     "static/media/n3.png": "/micro-app-cir-slide/static/media/n3.3b303e7367c35dd33fbc.png",
-    "static/media/f1.png": "/micro-app-cir-slide/static/media/f1.fc2407dcfbb5ec792fad.png",
     "static/media/n2.png": "/micro-app-cir-slide/static/media/n2.fc090db58a52eba2d170.png",
     "static/media/n1.png": "/micro-app-cir-slide/static/media/n1.eccd59e6a16fbe23c7ae.png",
     "static/media/count-his.png": "/micro-app-cir-slide/static/media/count-his.96fa20649852f85eff91.png",
     "index.html": "/micro-app-cir-slide/index.html",
     "main.2546935b.css.map": "/micro-app-cir-slide/static/css/main.2546935b.css.map",
-    "main.cbaeeddb.js.map": "/micro-app-cir-slide/static/js/main.cbaeeddb.js.map"
+    "main.29e747b0.js.map": "/micro-app-cir-slide/static/js/main.29e747b0.js.map"
   },
   "entrypoints": [
     "static/css/main.2546935b.css",
-    "static/js/main.cbaeeddb.js"
+    "static/js/main.29e747b0.js"
   ]
 }
